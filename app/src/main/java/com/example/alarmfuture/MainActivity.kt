@@ -35,6 +35,7 @@ class MainActivity : AppCompatActivity() {
 
         btnStop.setOnClickListener {
             description.text = "Пробуждение остановлено. Выспались?"
+            timeText.text = "—"
         }
     }
 

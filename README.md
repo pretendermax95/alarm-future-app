@@ -8,6 +8,10 @@
 - кнопка остановки;
 - лёгкий старт для дальнейшей разработки.
 
+## Скриншоты
+
+![Главный экран](assets/screenshots/placeholder.png)
+
 ## Технологии
 - Kotlin
 - AndroidX / Material 3
